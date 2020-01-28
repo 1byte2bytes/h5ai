@@ -1,0 +1,23 @@
+/* only here as a reference, these values are the hardcoded defaults */
+{
+    "lang": "ไทย",
+
+    "dateFormat": "YYYY-MM-DD HH:mm",
+    "details": "รายละเอียด",
+    "download": "ดาวน์โหลด",
+    "empty": "เปล่า",
+    "files": "ไฟล์",
+    "filter": "ตัวกรองไฟล์",
+    "folders": "โฟลเดอร์",
+    "grid": "ตาราง",
+    "icons": "ไอคอน",
+    "language": "ภาษา",
+    "lastModified": "ที่แก้ไขล่าสุด",
+    "name": "ชื่อ",
+    "noMatch": "ไม่พบที",
+    "parentDirectory": "ไดเรกทอรีหลัก",
+    "search": "ค้นหา",
+    "size": "ขนาด",
+    "tree": "ลำดับชั้น",
+    "view": "เปิดดู"
+}
